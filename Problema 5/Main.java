@@ -17,7 +17,6 @@ public class Main {
             Arrays.fill(grade[i], saida1);
         }
 
-        //ENTRADA:
         String ent = s.nextLine();
         ent = ent.replace(",","");
         String[] partes = ent.split(" ");
